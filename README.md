@@ -1,4 +1,4 @@
-```markdown
+
 # distro-check 🚀
 
 An ultra-lightweight, zero-dependency enterprise system and hardware compatibility auditor written in pure Python. Designed to run out-of-the-box on clean, minimal Linux/Ubuntu environment clusters to validate system health and security states.
@@ -10,7 +10,6 @@ An ultra-lightweight, zero-dependency enterprise system and hardware compatibili
 - **Enterprise-Ready Output UI:** Features a dual-mode interface—a highly readable, color-coded terminal UX for engineers, and a strict structured JSON stream mode for orchestration pipelines.
 - **Cross-Platform Resilient:** Built-in hardware simulation engine allows flawless execution and testing across both Windows and Linux environments.
 
----
 
 ## Directory Architecture
 
