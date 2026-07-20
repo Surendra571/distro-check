@@ -111,6 +111,3 @@ python run.py --format json
 1. **Memory Allocation Sweep:** Rather than wrapping high-level system tools, the application hooks directly into `/proc/meminfo`. It tracks `MemTotal` and `MemAvailable`, applying logic bounds to guarantee the environment has adequate compute resources.
 2. **Service State Tracking:** The app invokes asynchronous system checks using low-level `subprocess` pipelines to query state responses from the `systemd` manager (`systemctl is-active`).
 
-```
-
-```
