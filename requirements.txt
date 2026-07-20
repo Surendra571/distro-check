@@ -1,0 +1,11 @@
+# Core project dependencies (Standard library only)
+
+# --- Development & Code Quality Tools ---
+# Code formatter used by Canonical teams to ensure strict style consistency
+black==24.4.2
+
+# Linter to catch syntax bugs and enforce Python best practices
+flake8==7.1.0
+
+# Type-checker to verify logic security and structure rules
+mypy==1.10.1
